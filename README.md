@@ -38,7 +38,7 @@
 
 ## About Me
 
-Hello! I'm **Abdul Majeed Al-Yafei**, an Information Technology student interested in programming, software engineering, databases, software development, cybersecurity operations, and emerging technologies.
+Hello! I'm **Abdul Majeed Fikri Fouad Ahmed Al Yafei**, an Information Technology student interested in programming, software engineering, databases, software development, cybersecurity operations, and emerging technologies.
 
 I enjoy exploring how technology works and developing my technical knowledge through continuous learning and practical exploration.
 
