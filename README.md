@@ -13,9 +13,9 @@
 
 <br>
 
-# Abdul Majeed Al-Yafei
+# 
 
-### Information Technology Student | Aspiring Developer
+### Information Technology Student 
 
 <p>
   <img
